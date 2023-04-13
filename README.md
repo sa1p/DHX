@@ -1,4 +1,10 @@
+English | [日本語](README.ja.md)
+
 # 🧟DHX
+
+[![GitHub stars](https://img.shields.io/github/stars/sa1p/DHX)](https://github.com/sa1p/DHX/stargazers)
+[![GitHub license](https://img.shields.io/github/license/sa1p/DHX)](https://github.com/sa1p/DHX/LICENSE)
+
 Digital Human Context - Format for an index to help AI understand the minimum necessary context for a digital human to become a philosophical zombie.
 
 Create a better Doraemon.
